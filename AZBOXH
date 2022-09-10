@@ -1,0 +1,6 @@
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1,M+ LaLiga HD
+#EXTVLCOPT:program=29967
+http://46.8.174.52:8001/1:0:19:750F:420:1:C00000:0:0:0:
+
